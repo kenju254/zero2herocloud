@@ -6,7 +6,7 @@
 
 ~~sub-section~~
 
-![](../img/entrepreneur.jpg)
+![](./img/entrepreneur.jpg)
 
 ~~sub-section~~
 
@@ -26,7 +26,7 @@
 
 ~~sub-section~~
 
-![](../img/developer.jpg)
+![](./img/developer.jpg)
 
 ~~sub-section~~
 
@@ -74,11 +74,11 @@ laziness + risktaker = outcome
 
 ~~sub-section~~
 
-![](../img/larry.jpeg)
+![](./img/larry.jpeg)
 
 ~~sub-section~~
 
-![](../img/mark.jpeg)
+![](./img/mark.jpeg)
 
 ~~sub-section~~
 
@@ -106,7 +106,7 @@ You ??
 
 ## Why ? Skills
 
-![](../img/skills.png)
+![](./img/skills.png)
 
 ~~sub-section~~
 

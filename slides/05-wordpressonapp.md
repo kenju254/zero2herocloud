@@ -137,7 +137,7 @@
 
 ~~sub-section~~
 
-![](../img/topsecret.jpeg)
+![](./img/topsecret.jpeg)
 
 ~~sub-section~~
 
@@ -169,11 +169,11 @@ it is unusual to meet success the right way
 
 ~~sub-section~~
 
-![](../img/mark.jpeg)
+![](./img/mark.jpeg)
 
 ~~sub-section~~
 
-![](../img/steve.jpeg)
+![](./img/steve.jpeg)
 
 ~~sub-section~~
 
@@ -189,7 +189,7 @@ it is unusual to meet success the right way
 
 ~~sub-section~~
 
-![](../img/simposon.jpeg)'
+![](./img/simoson.jpeg)'
 
 ~~sub-section~~
 
